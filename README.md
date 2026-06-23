@@ -2,6 +2,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itslovepreet1212-stack&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itslovepreet1212-stack&layout=compact&theme=dark)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=itslovepreet1212-stack&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <!--
 **itslovepreet1212-stack/itslovepreet1212-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
